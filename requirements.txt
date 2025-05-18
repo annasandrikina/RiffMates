@@ -1,0 +1,8 @@
+asgiref==3.8.1
+Django==5.2.1
+gunicorn==23.0.0
+oc==0.2.1
+packaging==25.0
+pexpect==4.9.0
+ptyprocess==0.7.0
+sqlparse==0.5.3
